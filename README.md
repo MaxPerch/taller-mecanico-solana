@@ -1,4 +1,5 @@
 Taller Mecánico Solana 🛠️
+
 Contrato inteligente desarrollado con Anchor para gestionar reparaciones mecánicas en la blockchain de Solana.
 
 Funcionalidades
